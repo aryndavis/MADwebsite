@@ -5,8 +5,14 @@ permalink: /resources/
 
 ---
 
-# Welcome
+# Here are links to our resources and graphics detailing more information around why our demands should be met:
 
-**Hello world**, this is my first Jekyll blog post.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-I hope you like it!
+
