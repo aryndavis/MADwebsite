@@ -1,4 +1,4 @@
-# Mobilized African Diaspora
+
 
 To read the full demand letter to see our introduction and all of the citations of our claims, see here: [Full Demand Letter](tinyurl.com/MADdemandletter)
 
