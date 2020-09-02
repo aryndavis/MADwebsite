@@ -6,7 +6,7 @@ permalink: /studentsupport/
 ---
 
 # Welcome
-To sign the petition as an individual, see here: [Petition](https://actionnetwork.org/petitions/mobilized-african-diaspora-demands?source=direct_link&)
+To sign the petition as an individual, see here: [Petition](https://actionnetwork.org/petitions/mobilized-african-diaspora-demands?source=direct_link&){:target="_blank"}
 
 To date, 142 Columbia University student groups Have signed on to our demands, these groups are:
 
