@@ -4,6 +4,8 @@ title:  "Black Professorship!"
 category: professor
 
 ---
+@import "{{ site.theme }}";
+
 # Welcome
 
 **Hello world**, this is my first Jekyll blog post.
