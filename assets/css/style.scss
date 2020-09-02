@@ -2,6 +2,23 @@
 ---
 
 @import "{{ site.theme }}";
+$container-max-width: 1000px;
+
+@mixin media-max-width($max-width) {
+  @media (max-width: $max-width) {
+      @content;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: $body-background url("../../images/image0.png") 0 0;
+  color: $body-foreground;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
 
 header h1 {
   color: #5dbcd2;
