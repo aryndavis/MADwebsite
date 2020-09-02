@@ -116,4 +116,10 @@ including but not limited to: the undergraduate Columbia supplement application,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. In Fall 2019, Columbia reports having 222 Black identifying Instruction or Research based employees across the total University, about 1.3% of all total employees and 3.3% of all Instruction or Research based employees. There are currently 0 Black tenured professors in engineering and Black professors only make up 3.7% of all tenured faculty. Supporting Black students and supporting Black professors are two sides of the same coin, Columbia cannot claim to be a diverse and inclusive institution without adequately supporting us. 
 
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
