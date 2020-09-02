@@ -9,63 +9,63 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. **Employment:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Commit 50% of Columbia’s Approved Vendors List to local Black-owned businesses and ensure that local Black-owned businesses are utilized for Columbia’s construction and renovation projects through an expanded partnership with CU Grow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Commit 50% of Columbia’s Approved Vendors List to local Black-owned businesses and ensure that local Black-owned businesses are utilized for Columbia’s construction and renovation projects through an expanded partnership with CU Grow
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Ensure that 50% of retail space within the Manhattanville General Project Area is used by local Black-owned businesses, with priority given to those directly affected by Columbia’s expansion
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Ensure that 50% of retail space within the Manhattanville General Project Area is used by local Black-owned businesses, with priority given to those directly affected by Columbia’s expansion
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Implement the recommendations of the Minority-, Women- and Locally-Owned (MWL) Construction Trades Certificate Mentorship Program, with specific focus on creating a streamlined pathway to union membership for local residents
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Implement the recommendations of the Minority-, Women- and Locally-Owned (MWL) Construction Trades Certificate Mentorship Program, with specific focus on creating a streamlined pathway to union membership for local residents
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coordinate with WHDC to create a pipeline of employment through both the West Harlem Skills Training Center and the Columbia Employment Information Center
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Coordinate with WHDC to create a pipeline of employment through both the West Harlem Skills Training Center and the Columbia Employment Information Center
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Increase job placement targets for local applicants by 50% in the next year and 100% in the next 3 years
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Increase job placement targets for local applicants by 50% in the next year and 100% in the next 3 years
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. **Education:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Permanently maintain Columbia’s financial support for Teacher’s College Community School (TCCS) and provide a single site for school operations 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Permanently maintain Columbia’s financial support for Teacher’s College Community School (TCCS) and provide a single site for school operations 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Increase financial support for Columbia Secondary School through a combination of annual awards and endowment donations
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Increase financial support for Columbia Secondary School through a combination of annual awards and endowment donations
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Annual donations of 750,000 to fund subsidized programming for low-income students
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Annual donations of 750,000 to fund subsidized programming for low-income students
  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Annual endowment donations of 1 million for a period of 10 years to facilitate eventual financial self-sufficiency
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Annual endowment donations of 1 million for a period of 10 years to facilitate eventual financial self-sufficiency
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. **Affordable Housing:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Explicitly denounce the use of eminent domain and stand with tenant activists
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Explicitly denounce the use of eminent domain and stand with tenant activists
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Establish an HDFC resource center and provide financial assistance to HDFCs struggling due to COVID-19
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Establish an HDFC resource center and provide financial assistance to HDFCs struggling due to COVID-19
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Fund 2 attorneys, beyond the $4 million allocated in the CBA, at a legal assistance provider chosen by community members
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Fund 2 attorneys, beyond the $4 million allocated in the CBA, at a legal assistance provider chosen by community members
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Collaborate with WHDC to develop/rehabilitate affordable housing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Collaborate with WHDC to develop/rehabilitate affordable housing
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Ensure that 32% of all ongoing and future residential construction projects built by Columbia are permanently low-income units (50%-80% AMI) sold with priority to local buyers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Ensure that 32% of all ongoing and future residential construction projects built by Columbia are permanently low-income units (50%-80% AMI) sold with priority to local buyers
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Permanently maintain rent-controlled and rent-stabilized prices of units in all privately-owned buildings currently owned by Columbia, as well as those purchased in the future
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi. Permanently maintain rent-controlled and rent-stabilized prices of units in all privately-owned buildings currently owned by Columbia, as well as those purchased in the future
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. **Expansion:** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. End predatory redevelopment efforts and release a public statement on Columbia’s website condemning the use of eminent domain in any future construction or renovation projects
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. End predatory redevelopment efforts and release a public statement on Columbia’s website condemning the use of eminent domain in any future construction or renovation projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Advocate for the abandonment of the Union Theological Seminary 42-story high-rise 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Advocate for the abandonment of the Union Theological Seminary 42-story high-rise 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Relocate Columbia Secondary School to the former location of McDonalds on 125th as promised and do not build a high-rise
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Relocate Columbia Secondary School to the former location of McDonalds on 125th as promised and do not build a high-rise
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Conduct a second neighborhood conditions report on this location by an independent organization chosen by community members
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Conduct a second neighborhood conditions report on this location by an independent organization chosen by community members
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. **Long-Term Solutions:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Eliminate the “Term” date of the Community Benefits Agreement and the Affordable Housing Fund found in Section XI.E of the CBA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Eliminate the “Term” date of the Community Benefits Agreement and the Affordable Housing Fund found in Section XI.E of the CBA
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Create a community trust fund whose income will be used to support West Harlem residents indefinitely and ensure that Columbia’s community support matches that of peer institutions in the long term 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Create a community trust fund whose income will be used to support West Harlem residents indefinitely and ensure that Columbia’s community support matches that of peer institutions in the long term 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Schedule quarterly meetings with university stakeholders and community representatives (Community Boards, non-profits, NYCHA resident leaders) to discuss new/ongoing initiatives
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. Schedule quarterly meetings with university stakeholders and community representatives (Community Boards, non-profits, NYCHA resident leaders) to discuss new/ongoing initiatives
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Deposit $1,000,000 in various local minority-owned banks and credit unions in the greater Harlem area
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv. Deposit $1,000,000 in various local minority-owned banks and credit unions in the greater Harlem area
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Create special ID cards for Community Board 9 residents and families to ensure their access to Columbia University amenities and buildings as promised in Section II.E of the CBA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v. Create special ID cards for Community Board 9 residents and families to ensure their access to Columbia University amenities and buildings as promised in Section II.E of the CBA
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Mandate an educational requirement for all incoming first-year students during NSOP that mirrors the current structure of Under1Roof and requires students to engage in critical conversations with Community Board 9 members regarding the relationship between Columbia University and Harlem
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi. Mandate an educational requirement for all incoming first-year students during NSOP that mirrors the current structure of Under1Roof and requires students to engage in critical conversations with Community Board 9 members regarding the relationship between Columbia University and Harlem
 
 
  **2. Columbia University end all support for the NYPD.**
