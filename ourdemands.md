@@ -17,7 +17,7 @@ To read the full demand letter to see our introduction and all of the citations 
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. **Employment:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. Commit 50% of Columbia’s Approved Vendors List to local Black-owned businesses and ensure that local Black-owned businesses are utilized for Columbia’s construction and renovation projects through an expanded partnership with CU Grow
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Commit 50% of Columbia’s Approved Vendors List to local Black-owned businesses and ensure that local Black-owned businesses are utilized for Columbia’s construction and renovation projects through an expanded partnership with CU Grow
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Ensure that 50% of retail space within the Manhattanville General Project Area is used by local Black-owned businesses, with priority given to those directly affected by Columbia’s expansion
 
@@ -33,7 +33,7 @@ To read the full demand letter to see our introduction and all of the citations 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. Increase financial support for Columbia Secondary School through a combination of annual awards and endowment donations
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Annual donations of 750,000 to fund subsidized programming for low-income students
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Annual donations of 750,000 to fund subsidized programming for low-income students
  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Annual endowment donations of 1 million for a period of 10 years to facilitate eventual financial self-sufficiency
   
