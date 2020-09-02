@@ -15,4 +15,4 @@ t: [@MADatCU](https://twitter.com/madatcu){:target="_blank"}
 
 f: [MADatCU](https://www.facebook.com/MADatCU/timeline){:target="_blank"}
 
-g: [mad.columbia@gmail.com](mailto:mad.columbia@gmail.com){:target="_blank"}
+g: [mad.columbia@gmail.com](mailto:mad.columbia@gmail.com)
