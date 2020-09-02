@@ -11,7 +11,7 @@ To sign the petition as an individual, see here: [Petition](https://actionnetwor
 To date, 142 Columbia University student groups Have signed on to our demands, these groups are:
 
 <div class="row">
-  <div class="col-md-6" markdown="1">
+  <div class="col-md-8" markdown="1">
     <h3>Undergraduate Student Orgs:</h3>
       4x4 Magazine
       Accion Boricua
@@ -150,19 +150,16 @@ To date, 142 Columbia University student groups Have signed on to our demands, t
 
     
   </div>
-  <div class="col-md-6" markdown="1">
+  <div class="col-md-4" markdown="1">
     <h3>Graduate Student Orgs:</h3> 
     Columbia Black Law Students Association
-Columbia East Asian Languages and Cultures Graduates Association (EAGA)
-Columbia Graduate Association of Latin American and Iberian Cultures (GALAIC)
-Columbia People’s COVID Response (CPCR)
-Columbia University Tenant’s Association
-Black Student Alliance Graduate School of Architecture, Planning and Preservation (GSAPP)
-Graduate Workers of Columbia (GWC-UAW Local 2110) 
-GWC-AWDU
-
-
-
+    Columbia East Asian Languages and Cultures Graduates Association (EAGA)
+    Columbia Graduate Association of Latin American and Iberian Cultures (GALAIC)
+    Columbia People’s COVID Response (CPCR)
+    Columbia University Tenant’s Association
+    Black Student Alliance Graduate School of Architecture, Planning and Preservation (GSAPP)
+    Graduate Workers of Columbia (GWC-UAW Local 2110) 
+    GWC-AWDU
     
   </div>
 </div>
