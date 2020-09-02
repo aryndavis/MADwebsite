@@ -1,10 +1,9 @@
 ---
-layout: null
+layout: default
 title:  "Black Professorship!"
 category: professor
 
 ---
-@import "{{ site.theme }}";
 
 # Welcome
 
