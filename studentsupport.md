@@ -11,7 +11,7 @@ To sign the petition as an individual, see here: [Petition](https://actionnetwor
 To date, 142 Columbia University student groups Have signed on to our demands, these groups are:
 
 <div class="row">
-  <div class="col-md-8" markdown="1">
+  <div class="col-md-8" markdown="1" float='left' width='50%'>
     <h3>Undergraduate Student Orgs:</h3>
       4x4 Magazine
       Accion Boricua
@@ -150,8 +150,8 @@ To date, 142 Columbia University student groups Have signed on to our demands, t
 
     
   </div>
-  <div class="col-md-4" markdown="1">
-    <h3>Graduate Student Orgs:</h3> 
+  <div class="col-md-4" markdown="1" float='right' width='50%'>
+    Graduate Student Orgs:
     Columbia Black Law Students Association
     Columbia East Asian Languages and Cultures Graduates Association (EAGA)
     Columbia Graduate Association of Latin American and Iberian Cultures (GALAIC)
