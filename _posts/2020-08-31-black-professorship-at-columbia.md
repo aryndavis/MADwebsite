@@ -1,6 +1,7 @@
 layout: null
 title:  "Black Professorship!"
 category: professor
+published: true
 
 # Welcome
 
