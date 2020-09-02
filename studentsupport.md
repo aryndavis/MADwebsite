@@ -9,8 +9,8 @@ permalink: /studentsupport/
 To sign the petition as an individual, see here: [Petition](https://actionnetwork.org/petitions/mobilized-african-diaspora-demands?source=direct_link&)
 
 To date, 142 Columbia University student groups Have signed on to our demands, these groups are:
-4x4 Magazine
-Accion Boricua
+* 4x4 Magazine
+* Accion Boricua
 ActiveMinds at Columbia
 Activities Board at Columbia 
 Alianza
