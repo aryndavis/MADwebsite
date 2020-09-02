@@ -2,9 +2,9 @@
 
 ## Our Demands
 
-###We clearly and without hesitation demand:
+### We clearly and without hesitation demand:
 
-1. **Columbia University fulfill its responsibilities to the people of West Harlem.**
+ **1. Columbia University fulfill its responsibilities to the people of West Harlem.**
   Our surrounding community has been irrevocably damaged through resident evictions, campus expansions, and support of increased policing in the name of “student safety”. We demand that Columbia University repay these debts by advocating against the over-policing and surveillance of West Harlem, committing resources to Black-run community organizations, supporting local Black-owned businesses, and providing employment and affordable housing to those that have been affected by its expansion. We require a shift from monetary centered support to outcome centered support, as well as ownership of the successes/challenges of the West Harlem Development Corporation (WHDC) in fulfilling Columbia’s Community Benefits Agreement.  Actions include, but are not limited to:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. **Employment:**
@@ -68,7 +68,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Mandate an educational requirement for all incoming first-year students during NSOP that mirrors the current structure of Under1Roof and requires students to engage in critical conversations with Community Board 9 members regarding the relationship between Columbia University and Harlem
 
 
-2. **Columbia University end all support for the NYPD.**
+ **2. Columbia University end all support for the NYPD.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Disclose with full transparency Columbia’s relationship to the NYPD. We understand that Columbia maintains no contract with the NYPD and is mandated by New York state law to cooperate in investigations.  However, we require more information regarding the extent of communication between Public Safety and the NYPD, any donations Columbia makes to organizations such as the New York City Police Foundation, NYPD presence in Columbia-owned real estate throughout New York, etc.
 
@@ -77,7 +77,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Mandate the resignation of all NYPD-affiliated officers and executives, including James McShane, Vice President of Public Safety, and Timothy Malin, Director of Public Safety without severance benefits or compensation.  Under the leadership of James McShane and other NYPD veterans, Public Safety has failed to keep Black and brown students safe.
 
 
-3. **Columbia University defund Public Safety and invest in community safety solutions that prioritize the safety of Black students.**
+ **3. Columbia University defund Public Safety and invest in community safety solutions that prioritize the safety of Black students.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Release itemized, annual budget reports detailing funding, spending, and all financial allocation over the last ten years.
 
@@ -97,9 +97,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. **Transparency**: All meetings of this Task Force must be public, and meeting minutes/summaries must be made available to all students.  Monthly email updates detailing the progress of the Task Force must be sent to all stakeholders, and there must be at least 3 town halls to allow for maximum student involvement.
 
-4. **Columbia University ban-the-box from all applications**, including but not limited to: the undergraduate Columbia supplement application, the General Studies application, and Law School application. The inclusion of this question weakens trust in the holistic application review process and expands the reach of police surveillance into educational spaces. By continuing to ask this question, Columbia reinforces the dehumanization of Black people by the carceral state before they even step foot on campus. 
+**4. Columbia University ban-the-box from all applications**, including but not limited to: the undergraduate Columbia supplement application, the General Studies application, and Law School application. The inclusion of this question weakens trust in the holistic application review process and expands the reach of police surveillance into educational spaces. By continuing to ask this question, Columbia reinforces the dehumanization of Black people by the carceral state before they even step foot on campus. 
 
-5. **Columbia University improve the academic environment for Black students.**
+ **5. Columbia University improve the academic environment for Black students.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Columbia University hire more Black faculty across all schools and departments, reallocate physical and financial resources for IRAAS, IRWGS, CSER, IAS, MEI, SAI, and restructure the Core Curriculum to include Intro to African-American Studies and Intro to Comparative Ethnic Studies as required Core classes. 
 
