@@ -6,7 +6,7 @@
 
 1. Columbia University fulfill its responsibilities to the people of West Harlem.
   Our surrounding community has been irrevocably damaged through resident evictions, campus expansions, and support of increased policing in the name of “student safety”. We demand that Columbia University repay these debts by advocating against the over-policing and surveillance of West Harlem, committing resources to Black-run community organizations, supporting local Black-owned businesses, and providing employment and affordable housing to those that have been affected by its expansion. We require a shift from monetary centered support to outcome centered support, as well as ownership of the successes/challenges of the West Harlem Development Corporation (WHDC) in fulfilling Columbia’s Community Benefits Agreement.  Actions include, but are not limited to:
-- Employment: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Employment: 
 1. Commit 50% of Columbia’s Approved Vendors List to local Black-owned businesses and ensure that local Black-owned businesses are utilized for Columbia’s construction and renovation projects through an expanded partnership with CU Grow
 2. Ensure that 50% of retail space within the Manhattanville General Project Area is used by local Black-owned businesses, with priority given to those directly affected by Columbia’s expansion
 3. Implement the recommendations of the Minority-, Women- and Locally-Owned (MWL) Construction Trades Certificate Mentorship Program, with specific focus on creating a streamlined pathway to union membership for local residents
