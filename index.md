@@ -102,7 +102,8 @@ To sign the petition, see here: [Petition](https://actionnetwork.org/petitions/m
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. **Transparency**: All meetings of this Task Force must be public, and meeting minutes/summaries must be made available to all students.  Monthly email updates detailing the progress of the Task Force must be sent to all stakeholders, and there must be at least 3 town halls to allow for maximum student involvement.
 
-#### **4. Columbia University ban-the-box from all applications**, including but not limited to: the undergraduate Columbia supplement application, the General Studies application, and Law School application. The inclusion of this question weakens trust in the holistic application review process and expands the reach of police surveillance into educational spaces. By continuing to ask this question, Columbia reinforces the dehumanization of Black people by the carceral state before they even step foot on campus. 
+#### **4. Columbia University ban-the-box from all applications**, 
+including but not limited to: the undergraduate Columbia supplement application, the General Studies application, and Law School application. The inclusion of this question weakens trust in the holistic application review process and expands the reach of police surveillance into educational spaces. By continuing to ask this question, Columbia reinforces the dehumanization of Black people by the carceral state before they even step foot on campus. 
 
 #### **5. Columbia University improve the academic environment for Black students.**
 
