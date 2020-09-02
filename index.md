@@ -1,6 +1,8 @@
 # Mobilized African Diaspora
 
+
 ## Our Demands
+
 
 ### We clearly and without hesitation demand:
 
