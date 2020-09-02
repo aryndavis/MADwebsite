@@ -5,7 +5,7 @@ permalink: /resources/
 
 ---
 
-# Here are links to our resources and graphics detailing more information around why our demands should be met:
+## Here are links to our resources and graphics detailing more information around why our demands should be met:
 
 <ul>
   {% for post in site.posts %}
