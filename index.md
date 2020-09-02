@@ -1,5 +1,8 @@
 # Mobilized African Diaspora
 
+To read the full demand letter to see our introduction and all of the citations of our claims, see here: [Full Demand Letter](tinyurl.com/MADdemandletter)
+
+To sign the petition, see here: [Petition](https://actionnetwork.org/petitions/mobilized-african-diaspora-demands?source=direct_link&)
 
 ## Our Demands
 
@@ -112,6 +115,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii. In Fall 2019, Columbia reports having 222 Black identifying Instruction or Research based employees across the total University, about 1.3% of all total employees and 3.3% of all Instruction or Research based employees. There are currently 0 Black tenured professors in engineering and Black professors only make up 3.7% of all tenured faculty. Supporting Black students and supporting Black professors are two sides of the same coin, Columbia cannot claim to be a diverse and inclusive institution without adequately supporting us. 
 
 
-To read the full letter to see our introduction and all of the citations of our claims, see here: [Full Demand Letter](tinyurl.com/MADdemandletter)
-
-To sign the petition, see here: [Petition](https://actionnetwork.org/petitions/mobilized-african-diaspora-demands?source=direct_link&)
