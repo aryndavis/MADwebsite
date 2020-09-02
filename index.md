@@ -119,7 +119,7 @@ including but not limited to: the undergraduate Columbia supplement application,
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/github-pages-with-jekyll{{ post.url }}">{{ post.title }}</a>
+      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
