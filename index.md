@@ -113,3 +113,5 @@
 
 
 To read the full letter to see our introduction and all of the citations of our claims, see here: [Full Demand Letter](tinyurl.com/MADdemandletter)
+
+To sign the petition, see here: [Petition](https://actionnetwork.org/petitions/mobilized-african-diaspora-demands?source=direct_link&)
