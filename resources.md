@@ -1,7 +1,9 @@
+---
 layout: page
 title: "RESOURCES"
 permalink: /resources/
 
+---
 
 # Welcome
 
