@@ -9,7 +9,7 @@ To sign the petition, see here: [Petition](https://actionnetwork.org/petitions/m
 
 ### We clearly and without hesitation demand:
 
- #### **1. Columbia University fulfill its responsibilities to the people of West Harlem.**
+#### **1. Columbia University fulfill its responsibilities to the people of West Harlem.**
   Our surrounding community has been irrevocably damaged through resident evictions, campus expansions, and support of increased policing in the name of “student safety”. We demand that Columbia University repay these debts by advocating against the over-policing and surveillance of West Harlem, committing resources to Black-run community organizations, supporting local Black-owned businesses, and providing employment and affordable housing to those that have been affected by its expansion. We require a shift from monetary centered support to outcome centered support, as well as ownership of the successes/challenges of the West Harlem Development Corporation (WHDC) in fulfilling Columbia’s Community Benefits Agreement.  Actions include, but are not limited to:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. **Employment:**
@@ -73,7 +73,7 @@ To sign the petition, see here: [Petition](https://actionnetwork.org/petitions/m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi. Mandate an educational requirement for all incoming first-year students during NSOP that mirrors the current structure of Under1Roof and requires students to engage in critical conversations with Community Board 9 members regarding the relationship between Columbia University and Harlem
 
 
- #### **2. Columbia University end all support for the NYPD.**
+#### **2. Columbia University end all support for the NYPD.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Disclose with full transparency Columbia’s relationship to the NYPD. We understand that Columbia maintains no contract with the NYPD and is mandated by New York state law to cooperate in investigations.  However, we require more information regarding the extent of communication between Public Safety and the NYPD, any donations Columbia makes to organizations such as the New York City Police Foundation, NYPD presence in Columbia-owned real estate throughout New York, etc.
 
