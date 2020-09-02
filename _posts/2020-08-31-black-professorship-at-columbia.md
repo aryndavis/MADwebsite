@@ -1,7 +1,6 @@
----
-layout: post
+layout: null
 title:  "Black Professorship!"
----
+category: professor
 
 # Welcome
 
