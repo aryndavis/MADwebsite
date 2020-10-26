@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "OUR DEMANDS"
-permalink: /ourdemands/
+title: "OUR HISTORY"
+permalink: /history/
 
 ---
 # What We've Done
