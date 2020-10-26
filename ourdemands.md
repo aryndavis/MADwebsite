@@ -4,7 +4,7 @@ title: "OUR DEMANDS"
 permalink: /ourdemands/
 
 ---
-# What we want
+# What We Want
 
 To read the full demand letter to see our introduction and all of the citations of our claims, see here: [Full Demand Letter](https://docs.google.com/document/d/1yLZN0AyGZlvpnNxzbc9osaWMMeI7WjxGJo0Ujc1x98I/edit?usp=sharing){:target="_blank"}
 
