@@ -1,3 +1,11 @@
+---
+layout: default
+title: "OUR DEMANDS"
+permalink: /ourdemands/
+
+---
+# What We've Done
+
 ## The reason you may not have heard of us is because MAD is not a Columbia-recognized group! Here is a brief history.
 
 In response to the non-indictment of Daniel Pantaleo in the murder of Eric Garner, The Columbia University Black Students’ Organization and members of the original MAD along with other groups organized a die-in, which occurred during Columbia’s annual tree lighting ceremony. During the ceremony, hundreds of student protestors, dressed in all black, laid down across College Walk, holding up makeshift tombstones bearing the names of various victims of police brutality, such as Mike Brown and Tamir Rice. Soon after the demonstration began, the administration called in the NYPD, who arrived on the scene in riot gear with several police wagons and communications vans.
