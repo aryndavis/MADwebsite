@@ -1,4 +1,4 @@
-# WHO WE ARE
+# Who We Are
 
 Mobilized African Diaspora is a coalition of Black people at and affected by Columbia University committed to organizing against racism and structural oppression on campus and beyond. We organize to dismantle and restructure the racist, neocolonial University framework that negatively impacts Black students, staff, faculty, and those in the local and global community. MAD does not represent the voices of all Black people within this community, but instead functions as an open platform to combat the violences inflicted upon us. We work in solidarity with the Black student movements across the United States, and internationally. 
 
