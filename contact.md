@@ -5,7 +5,7 @@ permalink: /contact/
 
 ---
 
-# We need y'all 
+# We Need Y'all 
 
 We are a non-hierarchical organization that functions via collaboration and the energy of the collective. As a space, we strive to center the voices of radical Black queer folk. If you want to build with us, please contact us about the date and time of our meetings. 
 
