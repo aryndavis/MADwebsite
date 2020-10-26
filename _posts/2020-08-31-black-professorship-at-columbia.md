@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Black Professorship!"
+title:  "Black Professorship"
 category: professor
 
 ---
