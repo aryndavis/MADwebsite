@@ -1,7 +1,6 @@
 theme: jekyll-theme-hacker
 title: Mobilized African Diaspora at Columbia University
 description: Here is the centralized place to access our published resources and join us in our actions!
-baseurl: /MADwebsite
 github:
   is_project_page: false
 #email: mad.columbia@gmail.com
